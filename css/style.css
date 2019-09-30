@@ -1,0 +1,16 @@
+* {
+  font-family: sans-serif;
+  font-size: 16px;
+  margin: 0;
+  padding: 0;
+}
+#push-notifications-ui {
+  display: none;
+}
+#push-notifications-ui .on {
+  display: none;
+}
+#push-notifications-ui .off {
+  display: none;
+}
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,15 @@
+{
+  "name": "ilie_pandia/play_web_push_test",
+  "description": "This is a package for testing the WebPush capabilties and how I can employ those myself",
+  "minimum-stability": "beta",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Ilie Pandia",
+      "email": "iliep@softconsultant.ro"
+    }
+  ],
+  "require": {
+    "minishlink/web-push": "^5.2"
+  }
+}
